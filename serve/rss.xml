@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-        <title>Beyond Pie</title>
-        <description>Beyond Pie - Songpeng Zu</description>
+        <title>Beyond 11100011</title>
+        <description>Beyond 11100011 - Songpeng Zu</description>
         <link>http://songpeng.github.io</link>
         <link>http://songpeng.github.io</link>
-        <lastBuildDate>2015-03-23T18:12:46+08:00</lastBuildDate>
-        <pubDate>2015-03-23T18:12:46+08:00</pubDate>
+        <lastBuildDate>2015-03-23T22:36:56+08:00</lastBuildDate>
+        <pubDate>2015-03-23T22:36:56+08:00</pubDate>
         <ttl>1800</ttl>
 
 
         <item>
-                <title>BeyondPie</title>
-                <description>&lt;p&gt;This is my first blog.&lt;/p&gt;</description>
-                <link>http://songpeng.github.io/2015/03/22/beyondpie</link>
-                <guid>http://songpeng.github.io/2015/03/22/beyondpie</guid>
-                <pubDate>2015-03-22T00:00:00+08:00</pubDate>
+                <title>Prediction by Big Query</title>
+                <description>
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Recently several papers talked about using the queries data from the search engine (such as Google, Baidu) to predict the socks or fluenze. I will summarize my understanding of these works under a statistic view. &lt;/p&gt;
+</description>
+                <link>http://songpeng.github.io/Bayesian Stats/Machine Learning/2015/03/23/prediction-by-big-query</link>
+                <guid>http://songpeng.github.io/Bayesian Stats/Machine Learning/2015/03/23/prediction-by-big-query</guid>
+                <pubDate>2015-03-23T00:00:00+08:00</pubDate>
         </item>
 
 

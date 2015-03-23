@@ -2,13 +2,17 @@
 layout: page
 title: "Hello World"
 comments: false
-tagline: BEYOND 11100011
+tagline: BEYOND 11100011   
 tags: [TO DO]
 category: [title]
 
 ---
 {% include JB/setup %}
-
+$$
+\begin{equation}
+Pr(\theta|D) = \frac{ Pr(\theta)Pr(D|\theta)}{Pr(D)}
+\end{equation}
+$$
 
 This is my personal blog on GitHub. I use it to record my thoughs on diffrent subjects.
 
@@ -21,4 +25,5 @@ I mainly focus on:
 * Mathematics   
 * Classic Music   
 * Think Beyond   
+
 

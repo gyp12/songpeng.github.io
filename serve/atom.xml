@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Beyond Pie</title>
+ <title>Beyond 11100011</title>
  <link href="http://songpeng.github.io/" rel="self"/>
  <link href="http://songpeng.github.io"/>
- <updated>2015-03-23T18:12:46+08:00</updated>
+ <updated>2015-03-23T22:36:56+08:00</updated>
  <id>http://songpeng.github.io</id>
  <author>
    <name>Songpeng Zu</name>
@@ -13,11 +13,14 @@
 
  
  <entry>
-   <title>BeyondPie</title>
-   <link href="http://songpeng.github.io/2015/03/22/beyondpie"/>
-   <updated>2015-03-22T00:00:00+08:00</updated>
-   <id>http://songpeng.github.io/2015/03/22/beyondpie</id>
-   <content type="html">&lt;p&gt;This is my first blog.&lt;/p&gt;</content>
+   <title>Prediction by Big Query</title>
+   <link href="http://songpeng.github.io/Bayesian Stats/Machine Learning/2015/03/23/prediction-by-big-query"/>
+   <updated>2015-03-23T00:00:00+08:00</updated>
+   <id>http://songpeng.github.io/Bayesian Stats/Machine Learning/2015/03/23/prediction-by-big-query</id>
+   <content type="html">
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Recently several papers talked about using the queries data from the search engine (such as Google, Baidu) to predict the socks or fluenze. I will summarize my understanding of these works under a statistic view. &lt;/p&gt;
+</content>
  </entry>
  
  
