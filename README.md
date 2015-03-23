@@ -1,5 +1,8 @@
-#Beyond Pie under the help of Jekyll-Boostrap
+# Beyond Pie #
 
-The is my personal website.
-## TODO
-How to remove the ads in my posts?
+### Songpeng Zu ###
+
+### Date: March 13, 2015 ###
+
+The is my personal website on the github. Its theme follows the *Jekyll-Bootstrap*.
+
