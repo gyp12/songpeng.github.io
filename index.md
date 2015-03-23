@@ -2,7 +2,7 @@
 layout: page
 title: "Hello World"
 comments: false
-tagline: BEYOND PIEi
+tagline: BEYOND PIE
 tags: [TO DO]
 category: [title]
 
