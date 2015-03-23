@@ -9,6 +9,7 @@ category: [title]
 ---
 {% include JB/setup %}
 
+
 This is my personal blog on GitHub. I use it to record my thoughs on diffrent subjects.
 
 I mainly focus on:
