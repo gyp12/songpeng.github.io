@@ -2,7 +2,7 @@
 layout: post
 title: "Prediction by Big Query"
 description: ""
-category: [Bayesian Stats, Machine Learning]
+category: [Bayesian stats, Machine learning]
 tags: []
 ---
 {% include JB/setup %}
