@@ -8,4 +8,5 @@ tags: []
 {% include JB/setup %}
 
 ## Introduction
-Recently several papers talked about using the queries data from the search engine (such as Google, Baidu) to predict the socks or fluenze. I will summarize my understanding of these works under a statistic view.
+Recently several papers talked about using the queries data from the search engine (such as Google, Baidu) to predict the socks or fluenze. How did it work? Is it
+reliable? What can we learn from them? Are new statistic methods or computational algorithms are needed in this direction or in the future?
