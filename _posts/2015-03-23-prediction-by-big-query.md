@@ -15,4 +15,4 @@ Recently several papers talked about using the queries data from the search engi
 3. What can we learn from them?
 4. Are new statistic methods or computational algorithms are needed in this direction or in the future?
 
-Preis T.
+Preis T. _et.al.,_ (_Scientific Reports_,2013)  
