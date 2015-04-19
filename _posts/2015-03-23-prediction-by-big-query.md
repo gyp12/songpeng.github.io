@@ -18,4 +18,4 @@ Preis T. _et.al.,_ (_Scientific Reports_, 2013) related the trading behavior in 
 
 > **The strategy** (a rough description):  
 > Identify the terms with either positve or negative correlations with the changes of stock price.  
-> Given a term, if on overage, the search volume is 
+> Given a term, if on overage, the search volume is increased.
