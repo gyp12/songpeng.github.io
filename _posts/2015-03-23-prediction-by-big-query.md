@@ -26,3 +26,15 @@ For a given term, if this strategy helps them earn more than the simple stragy o
 
 ##Case Two: relating the influenza epidemics with the query data##
 Ginsberg, J. _et.al.,_ (_Nature_, 2009) tried to help the early detection of the seasonal influenza epidemics by the query data on *Google*. From 50 million (wow~) queries people usually used, they identified 45 queries which were most related with the influeza-like symptoms data from the public health. The queries can be classified as symptoms of an influenza, cold/flu remedy, and so on. A linear model was then fitted by integrating these queries.  The significant contribution of this work is that it can predict the influenza epidemics two weeks earlier than the traditional methods does, which enables public health officials to respond quickly. Note some also use the Baidu (one of the three largetst IT companies in China) query data to predict the same thing in China since Google is lack of these data (The reason is obvious...). 
+
+##Discussion##
+Are these works reliable, not only the methods they use, but also the way they treat the questions? From my personal opinion, the first one might not work in reality as well as they stated since you'd better keep it as a secret if you really could make it! Well, the second one seems to be reasonable. The key problem is that whether we can smell the scent by the query data before it really happens and how sensitivity it is. The latter work provides a much faster way to collect the data than the traditional methods. But the query data might be not so sensitive enough to help us predict the socks immediately.
+
+But these works are important and interesting. They are the frontiers on the so called *Big Data*. They also let us consider some aspects on statistics. For example,
+
+1. How to quickly detect the related variables from millions of variables?  
+2. How to construct the **knowledge tree** among these variables?  
+
+
+
+
