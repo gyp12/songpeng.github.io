@@ -35,6 +35,8 @@ Anyway these works are important and interesting. They are the frontiers on the 
 1. How to quickly detect the related variables from millions of variables?  
 2. How to construct the **knowledge tree** among these variables?  
 
+Note:
+This artical is modified at May 18,2015 under the help of Shang Su.
 
 
 
