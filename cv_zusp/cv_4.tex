@@ -24,7 +24,10 @@
 
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
 \usepackage{multicol}
+\usepackage{enumitem}
 
+\setlist{nolistsep}
+\setlist[itemize]{leftmargin=*}
 \name{Songpeng Zu} % Your name
 \address{FIT 1-108, Tsinghua University, Beijing, China} % Your address
 %\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
@@ -41,8 +44,12 @@
 {\bf Tsinghua University} \hfill {\em 2011.09 - Present} \\ 
 PhD Candidate, Bioinformatics Laboratory, Department of Automation, Tsinghua University\\
 Graduate Major GPA: 90.84/100
+\vspace{-3mm}
 \begin{multicols}{2}
+%\vspace{-\topsep}
   \begin{itemize}
+%\setlength{\parskip}{0pt}
+%\setlength{\itemsep}{0pt plus 1pt}
 \item Applied Stochastic Process
 \item Real Analysis, Basic Functional Analysis
 \item Pattern Recognition, Probabilistic Graph
@@ -50,7 +57,11 @@ Graduate Major GPA: 90.84/100
 \item Design of Bioinformatics Algorithms
 \item Probability and Statistics in High Dimensions 
   \end{itemize}
+%\vspace{-\topsep}
 \end{multicols}
+\vspace{-3mm}
+
+%\vspace{-\topsep}
 {\bf Tsinghua University} \hfill {\em 2007.09 - 2011.07} \\
 Bachelor, School of Life Science, Tsinghua University\\
 Undergraduate Major GPA: 86.32/100
@@ -71,10 +82,11 @@ Undergraduate Major GPA: 86.32/100
 \begin{rSection}{Research Experience}
 {\bf Department of Automation, Tsinghua University} \hfill {\em 2011.07 - Present}\\
 Predicting compound-protein interactions from the machine learning perspective.\\
-
 {\bf Department of Statistics, Harvard University} \hfill {\em 2014.03 - 2014.09} \\
 Cis eQTLs detection on GTEx Project by Bayesian nonparametric tests via sliced inverse modeling.
 %This project is guided by Professor Jun Liu. 
+{\bf Internship in Baidu Inc, Beijing, China} \hfill {\em 2014.01 - 2014.02}\\
+{\bf Internship in Disease Control and Prevention Center, Liuzhou, China} \hfill {\em 2013.07 - 2013.08}\\
 \end{rSection}
 
 \begin{rSection}{Publication}
@@ -85,11 +97,11 @@ Cis eQTLs detection on GTEx Project by Bayesian nonparametric tests via sliced i
 \begin{rSection}{Work Experience}
   \begin{itemize}
   \item {TA of Introduction to Systems Biology for undergraduate students} \hfill {\em 2014.09 - 2015.01}
-  \item {Internship in BAIDU Inc., Beijing, China} \hfill {\em 2014.01 - 2014.02}
+%  \item {Internship in BAIDU Inc., Beijing, China} \hfill {\em 2014.01 - 2014.02}
   \item {TA of Probabilistic Graphical Models for graduate students} \hfill {\em 2013.09 - 2014.01}
   \item {Undergraduate Affair Counselor (for scholarship and financial aid assessment)} \hfill {\em 2011.08 - 2013.01}
 %  \item {Complete the full Marathon} \hfill {\em 2009.10, 2010.10, 2011.10}
-%  \item {The volunteer of 2008 Beijing Olympic Games} \hfill {\em 2008.08}
+  \item {The volunteer of 2008 Beijing Olympic Games} \hfill {\em 2008.08}
   \end{itemize}
 \end{rSection}
 %----------------------------------------------------------------------------------------
