@@ -1,0 +1,174 @@
+%% Inicio del archivo `template-es.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+%\documentclass[11pt,a4paper,sans]{moderncv}
+\documentclass[10pt,a4paper]{moderncv}   % opciones posibles incluyen tamaño de fuente ('10pt', '11pt' and '12pt'), tamaño de papel ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' y 'landscape') y familia de fuentes ('sans' y 'roman')
+
+% temas de moderncv
+\moderncvstyle{classic}                        % las opciones de estilo son 'casual' (por omision),'classic', 'oldstyle' y 'banking'
+\moderncvcolor{purple}                          % opciones de color 'blue' (por omision), 'orange', 'green', 'red', 'purple', 'grey' y 'black'
+%\renewcommand{\familydefault}{\sfdefault}    % para seleccionar la fuente por omision, use '\sfdefault' para la fuente sans serif, '\rmdefault' para la fuente roman, o cualquier nombre de fuente
+%\nopagenumbers{}                             % elimine el comentario para suprimir la numeracion automatica de las paginas para CVs mayores a una pagina
+
+% codificacion de caracteres
+%\usepackage[utf8]{inputenc}                  % reemplace con su codificacion
+%\usepackage{CJKutf8}                         % si necesita usa CJK para redactar su CV en chino, japones o coreano
+
+% ajustes para los margenes de pagina
+\usepackage[scale=0.75]{geometry}
+
+%\newcommand{\cvitemchange}[1][.25em]{%
+%  \begin{tabular}{@{}p{\hintscolumnwidth}@{\hspace{\separatorcolumnwidth}}p{\maincolumnwidth}@{}}%
+%    \raggedleft\hintstyle{#1}%
+%  \end{tabular}%
+%  %\par\addvspace{.25em}
+%  }
+%\setlength{\hintscolumnwidth}{3cm}           % si desea cambiar el ando de la columna para las fechas
+
+% datos personales
+\name{Songpeng}{Zu}
+%\title{T\'itulo del CV (opcional)}                   % dato opcional, elimine la linea si no desea el dato
+\address{FIT 1-108, Tsinghua University}{Beijing, China} % dato opcional, elimine la linea si no desea el dato
+%\phone[mobile]{+1~(234)~567~890}                     % dato opcional, elimine la linea si no desea el dato
+%\phone[fixed]{86-10-62794294}                      % dato opcional, elimine la linea si no desea el dato
+%\phone[fax]{86-10-62773552}                       % dato opcional, elimine la linea si no desea el dato
+\email{zsp07@mails.tsinghua.edu.cn}                                 % dato opcional, elimine la linea si no desea el dato
+\homepage{https://github.com/songpeng}                           % dato opcional, elimine la linea si no desea el dato
+%\extrainfo{informacion adicional}                    % dato opcional, elimine la linea si no desea el dato
+%\photo[64pt][0.4pt]{picture}                         % '64pt' es la altura a la que la imagen debe ser ajustada, 0.4pt es grosor del marco que lo contiene (eliga 0pt para eliminar el marco) y 'picture' es el nombre del archivo; dato opcional, elimine la linea si no desea el dato
+
+%\quote{$P(\theta|X) \propto P(\theta)P(X|\theta)$}
+%\rule{\textwidth}{.75pt}}                       % dato opcional, elimine la linea si no desea el dato
+%\quote{{$P(\theta|X) = \frac{P(\theta)P(X|\theta)}{P(X)}$}}
+% para mostrar etiquetas numericas en la bibliografia (por omision no se muestran etiquetas), solo es util si desea incluir citas en en CV
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+
+% bibliografia con varias fuentes
+%\usepackage{multibib}
+%\newcites{book,misc}{{Libros},{Otros}}
+%----------------------------------------------------------------------------------
+%            contenido
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                     % para redactar el CV en chino usando CJK
+\maketitle
+\section{EDUCATION}
+\cventry{2011.09--present}{PhD Candidate}{Bioinformatics Laboratory}
+%{Departmento of Automation}
+{Tsinghua University}{}{Graduate Major GPA: 90.84/100}
+\cvlistdoubleitem{Applied Stochastic Processes}{Basic Functional Analysis}
+\cvlistdoubleitem{Statistic Inference}{Probabilistic Graph}
+\cvlistdoubleitem{Pattern Recognition}{Design of Bioinformatics Algorithms}
+%\cvlistdoubleitem{}
+  % Los argumentos del 3 al 6 pueden permanecer vacios
+\cventry{2007.09--2011.07}{Bachelor}{School of Life Science}{Tsinghua University}{}{Undergraduate Major GPA: 86.32/100}
+\cvlistdoubleitem{Linear Algebra and Analytic Geometry}{Advanced Calculus}
+\cvlistdoubleitem{Biostatistics}{Biochemistry}
+\cvlistdoubleitem{Cell Biology}{Genetics}
+\cvlistdoubleitem{General Physics (required for Physics major)}{Organic Chemistry (required for Chemistry major)}
+%\cvitemwithcomment{2011.09--present}{PhD Candidate Bioinformatics Laboratory}{Tsinghua University}
+%\cvitemwithcomment{2007.09--2011.07}{Bachelor The School of Life Science}{Tsinghua University}
+%\cvitemwithcomment{}{biochemistry biochemistry biochemistry biochemistry biocemisty ............\\..biochemistry}{}
+\section{RESEARCH INTERESTS}
+\cvlistitem{Statistical learning theory and application}
+\cvlistitem{Computational Chemistry}
+\cvlistitem{Network Polypharmacology}
+%\cvlistitem{Prediction of large-scale compound-protein interactions}
+\section{RESEARCH EXPERIENCE}
+\cvitem{2013.03--present}{Prediction of drug-protein interactions by integrating large-scale ligand-protein interactions with genomic information}
+\cvitem{2013.07}{Identification of HIV-1 subtypes and drug resistance by genomic data analysis}
+\cvitem{2011.12--2013.01}{Inference of the interactions between drug chemical substructures and protein domains from incomplete data by EM algorithm}
+\cvitem{2010.12--2011.06}{Molecular dynamics simulations of compound-protein interactions}
+\section{WORK EXPERIENCE}
+\cvitem{2013.09--present}{TA of Probabilistic Graphical Models}
+\cvitem{2011.08--2012.12}{Undergraduate Affair Counselor(for scholarship and financial aid assessment)}
+%\cvitem{2009.10--2011.10}{Completed Beijing marathon for three times}
+\cvitem{2008.09}{Internship in Novozymes China Investment Company}
+\cvitem{2008.08}{2008 Beijing Olympic Games volunteer}
+\section{AWORD}
+\cvitem{2013}{Tsinghua Scholarship for Overseas Graduate Studies}
+\cvitem{2012}{Tsinghua Excellent Undergraduate Affair Counseior}
+\cvitem{2010}{Tsinghua Zhongying Tang Scholarship}
+\section{OTHER INFORMATION}
+\cvitem{Softwares}{Matlab, R, Perl, and C/C++}
+\cvitem{Hobbies}{Football and the international ballroom dance}
+\section{PAPER UNPUBLISHED}
+\textbf{SUDO: Globally Inferring the Interactions between Drug Chemical Substructures and Protein domains from Incomplete Drug Target Interactions Data}
+\newline{Songpeng Zu*, Ting Chen and Shao Li.}
+\newline{In this work, we constructed a probalisitic model and estimated the parameters by EM algorithm to decipher the possible mechanisms that govern drug-protein interactions from incomplete data.}
+%\cvitem{2009}{Tsinghua Zhongying Tang Scholarship}
+%\subsection{Vocacional}
+%\cventry{a\~no--a\~no}{t\'itulo del puesto}{Empleador}{Ciudad}{}{Descripci\'on general, no m\'as de 1 \'o 2 l\'ineas.\newline{}%
+%Detalle de logros:%
+%\begin{itemize}%
+%\item Logro 1;
+%\item Logro 2, con sub-logros:
+%  \begin{itemize}%
+%  \item Sub-logro (a);
+%  \item Sub-logro (b), con sub-sub-logros (¡evite hacer esto!);
+%    \begin{itemize}
+%    \item Sub-sub-logro i;
+%    \item Sub-sub-logro ii;
+%    \item Sub-sub-logro iii;
+%    \end{itemize}
+%  \item Sub-logro (c);
+%  \end{itemize}
+%\item Logro 3.
+%\end{itemize}}
+%\cventry{a\~no--a\~no}{t\'itulo del puesto}{Empleador}{Ciudad}{}{Descripci\'on l\'inea 1\newline{}Descripci\'on l\'inea 2}
+%\subsection{Miscel\'aneo}
+%\cventry{a\~no--a\~no}{t\'itulo del puesto}{Empleador}{Ciudad}{}{Descripci\'on}
+%
+%\section{Idiomas}
+%\cvitemwithcomment{Idioma 1}{nivel}{Comentario}
+%\cvitemwithcomment{Idioma 2}{nivel}{Comentario}
+%\cvitemwithcomment{Idioma 3}{nivel}{Comentario}
+%
+%\section{Conocimientos de computaci\'on}
+%\cvdoubleitem{categor\'ia 1}{XXX, YYY, ZZZ}{categor\'ia 4}{XXX, YYY, ZZZ}
+%\cvdoubleitem{categor\'ia 2}{XXX, YYY, ZZZ}{categor\'ia 5}{XXX, YYY, ZZZ}
+%\cvdoubleitem{categor\'ia 3}{XXX, YYY, ZZZ}{categor\'ia 6}{XXX, YYY, ZZZ}
+
+%\section{SKILLS}
+%\cvitem{hobby 1}{Descripci\'on}
+%\cvitem{hobby 2}{Descripci\'on}
+%\cvitem{hobby 3}{Descripci\'on}
+
+%\section{Extra 1}
+%\cvlistitem{Tema 1}
+%\cvlistitem{Tema 2}
+%\cvlistitem{Tema 3}
+%
+%\renewcommand{\listitemsymbol}{-~}            % para cambiar el simbolo para las listas
+%
+%\section{Extra 2}
+%\cvlistdoubleitem{Tema 1}{Tema 4}
+%\cvlistdoubleitem{Tema 2}{Tema 5\cite{book1}}
+%\cvlistdoubleitem{Tema 3}{}
+
+% Las publicaciones tomadas de un archivo de BibTeX sin usar multibib\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+
+%\nocite{*}
+%\bibliographystyle{plain}
+%\bibliography{publications}                   % 'publications' es el nombre del archivo BibTeX
+
+% Las publicaciones tomadas de un archivo BibTeX usando el paquete multibib
+%\section{Publicaciones}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}              % 'publications' es el nombre del archivo BibTeX
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}              % 'publications' es el nombre del archivo BibTeX
+
+%\clearpage\end{CJK*}                          % si esta redactando su CV en chino usando CJK, \clearpage es requerido por fancyhdr para que funcione correctamente con CJK, aunque esto eliminara la numeracion de pagina al dejar \lastpage como no definido
+\end{document}
+
+
+%% fin del archivo `template-es.tex'.
