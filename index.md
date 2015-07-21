@@ -14,8 +14,9 @@ Pr(\theta|D) = \frac{ Pr(\theta)Pr(D|\theta)}{Pr(D)}
 \end{equation}
 $$
 
-I'm songpeng, a PhD candidate in Tsinghua University, Beijing, China. *Bioinformatics* is my major. This is my personal blog on GitHub. I use it to record my thoughts on diffrent subjects.
-
+I'm songpeng, a PhD candidate on *Bioinformatics* in Tsinghua University, Beijing, China.  
+I love math and programming.  My favourate sports are football and ballroom dancing. 
+<!-- 
 I mainly focus on:
 
 * Bayesiean Statistics
@@ -27,7 +28,7 @@ I mainly focus on:
 * Classic Music
 * China
 * Think Beyond   
-
+-->
 ###*Learning by doing, and doing by learning.*
 
 
