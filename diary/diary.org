@@ -1,0 +1,19 @@
+* Machine Learning
+** Neural Network
+
+* Research
+** RIP3
+** RSI
+** Transfer Learning
+
+* Finding Jobs
+** IBM
+** Microsoft
+** Baidu
+** Ali
+** Hulu
+
+* Finding postdoc
+** Jun Liu
+** Wing Hong Wong
+** Michigan...
