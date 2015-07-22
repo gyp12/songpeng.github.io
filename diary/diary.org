@@ -13,8 +13,11 @@
 ** [#A] Neural Network
 *** TODO Paper reviews on Deep Network
     DEADLINE: <2015-07-22 Wed>
+1. Summary of /Learning multiple layers of representation (By Hinton, 2007)/
+   + *Explain away* phenomenon in directed network, i.e., v-structure.
+   + Unsupervised, undirected, layer by layer, and fine-tune network learning.
 *** TODO Construction of CNN
-
+** Conditional Random Field
 ** Regression
 ** Kernal (plus SVM & Gaussian Process)
 ** Bayesian Stats
