@@ -1,5 +1,23 @@
+#+TITLE: TODO LIST
+#+AUTHOR: Grand
+#+DATE: 2015-07
+
+
+* Code
+** leetcode
+** C++
+** Python
+
+
 * Machine Learning
-** Neural Network
+** [#A] Neural Network
+*** TODO Paper reviews on Deep Network
+    DEADLINE: <2015-07-22 Wed>
+*** TODO Construction of CNN
+
+** Regression
+** Kernal (plus SVM & Gaussian Process)
+** Bayesian Stats
 
 * Research
 ** RIP3
