@@ -10,7 +10,7 @@
 
 
 * Machine Learning
-** [#A] Neural Network
+** Neural Network
 *** TODO Paper reviews on Deep Network
     DEADLINE: <2015-07-22 Wed>
 1. /Learning multiple layers of representation (By Hinton, 2007)/
@@ -22,18 +22,22 @@
 3. /UFLDL Tutorial (Online,2015)/
    + *Convolutional* means local summary.
    + *Back propagation* Errors from top to bottom. Note the delta on exponential family has specific formula.
-*** TODO Construction of CNN
 ** Conditional Random Field
 ** Regression
 ** Kernal (plus SVM & Gaussian Process)
 ** Bayesian Stats
 ** Common Optimization Methods.
 
-
 * Research
 ** RIP3
 ** RSI
 ** Transfer Learning
+*** TODO Compounds Feature Selection.
+*** TODO Construct the Algorithm by Pure C++ or Python with C.
+*** TODO Deep Learning on Transfer Multi-task or Feature Representation.
+** GIFT
+*** TODO R Package Establish.
+*** TODO Update the Results by Pulling More Data.
 
 * Finding Jobs
 ** IBM
