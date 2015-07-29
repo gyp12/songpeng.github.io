@@ -14,4 +14,4 @@ If you use Github (you don't know it or you don't use it? Hmm....), I highly rec
 
 It's not over. I found an App named "CodeHub" on Iphone through which you can log in the github on your personal phone. So you can study haoel's (maybe others') codes anywhere.
 
-Reading experts' codes is one of the most important way to learn how to write the right codes. Let's start!
+Reading experts' codes is one of the most important way to learn how to write the right codes. Let's start !
