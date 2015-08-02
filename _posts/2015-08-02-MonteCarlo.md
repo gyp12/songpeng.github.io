@@ -16,12 +16,12 @@ Jun gives us the very direct and intensive explanations on Monte Carlo strategie
 From my personal opinion,  Monte Carlo strategies can be summarized below:
 
 > __Basic strategy__
-    * Important Sampling
-    * Rejection Sampling
-    * MCMC including Gibbs sampling
+>> Important Sampling
+>> Rejection Sampling
+>> MCMC including Gibbs sampling
 
 > __Important ways__
-    * Sequential Monte Carlo
-    * Multiple tries when sampling.
-    * Multiple chains when sampling.
-    * Adding auxiliary variables, such as Hybrid Monte Carlo, Slice Sampling.
+>> Sequential Monte Carlo
+>> Multiple tries when sampling.
+>> Multiple chains when sampling.
+>> Adding auxiliary variables, such as Hybrid Monte Carlo, Slice Sampling.
