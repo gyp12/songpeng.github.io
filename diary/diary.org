@@ -5,9 +5,17 @@
 
 * Code
 ** leetcode
-** C++
+** C/C++
+*** TODO function template
+*** TODO iostream/fiostream
+*** TODO dynamic memory allocation in C and C++
+*** TODO Error Handling in C and C++
+*** TODO namespace in C and C++
+*** TODO dynamic_cast, static_cast, interpret_cast
+*** TODO smart ptr, unique ptr
 ** Python
 
+** Distributed System+Map/Reduce+Hadoop+MPI+Spark
 
 * Machine Learning
 ** Neural Network
@@ -25,11 +33,18 @@
 ** Conditional Random Field
 ** Regression
 ** Kernal (plus SVM & Gaussian Process)
-** Bayesian Stats
+** Monte Carlo
+*** TODO HMC and SMC
+** Regulation Bayesian
 ** Common Optimization Methods.
 
+** Inequalities
+*** TODO classical inequalities
+*** TODO statistical inequalities
 * Research
 ** RIP3
+*** TODO Compounds Collection.
+*** TODO Prediction by DrugCIPHER and GIFT.
 ** RSI
 ** Transfer Learning
 *** TODO Compounds Feature Selection.
