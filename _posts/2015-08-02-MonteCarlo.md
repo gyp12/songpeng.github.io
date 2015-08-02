@@ -19,7 +19,8 @@ From my personal opinion,  Monte Carlo strategies can be summarized below:
     * Important Sampling
     * Rejection Sampling
     * MCMC including Gibbs sampling
-  __Important ways__
+
+> __Important ways__
     * Sequential Monte Carlo
     * Multiple tries when sampling.
     * Multiple chains when sampling.
