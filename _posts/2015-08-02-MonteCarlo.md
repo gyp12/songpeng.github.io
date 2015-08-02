@@ -14,12 +14,14 @@ I began to learn the Monte Carlo from reading a well-written book called *Monte 
 Jun gives us the very direct and intensive explanations on Monte Carlo strategies without too many mathematical formulas. In fact, he makes a major contribution on this field. Reading this book, for me, is an quite interesting and happy things in life. But I have to say it might be a little old since it was published in 2001.
 
 From my personal opinion,  Monte Carlo strategies can be summarized below:
+
 > 1. Basic strategy:
-  * Important Sampling
-  * Rejection Sampling
-  * MCMC including Gibbs sampling
+    * Important Sampling
+    * Rejection Sampling
+    * MCMC including Gibbs sampling
+
 > 2. Important ways:
-  * Sequential Monte Carlo
-  * Multiple tries when sampling.
-  * Multiple chains when sampling.
-  * Adding auxiliary variables, such as Hybrid Monte Carlo, Slice Sampling.
+    * Sequential Monte Carlo
+    * Multiple tries when sampling.
+    * Multiple chains when sampling.
+    * Adding auxiliary variables, such as Hybrid Monte Carlo, Slice Sampling.
