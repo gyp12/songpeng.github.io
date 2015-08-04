@@ -37,10 +37,16 @@
 *** TODO HMC and SMC
 ** Regulation Bayesian
 ** Common Optimization Methods.
-
 ** Inequalities
 *** TODO classical inequalities
 *** TODO statistical inequalities
+
+
+* Convex Optimization
+** Common Optimization Method
+*** Stochastic gradient optimization.
+** Duality
+** Lagrange and KKT
 * Research
 ** RIP3
 *** TODO Compounds Collection.
@@ -65,4 +71,5 @@
 ** Jun Liu
 ** Wing Hong Wong
 ** Michigan...
-* CV Modification
+* CV Modificationi
+** Too simple without what I can do in the previous part for jobs.
