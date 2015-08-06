@@ -44,7 +44,7 @@
 
 * Convex Optimization
 ** Common Optimization Method
-*** Stochastic gradient optimization.
+*** Stochastic gradient descent method.
 ** Duality
 ** Lagrange and KKT
 * Research
@@ -73,3 +73,13 @@
 ** Michigan...
 * CV Modificationi
 ** Too simple without what I can do in the previous part for jobs.
+1. Skills not in order.
+  + Basic understanding of Neutral Network, CD algorithms, RBM and Deep Belief Network.
+  + Basic Optimization, such as ADMM, L-BFGS, augumented lagrangian methods.
+  + Basic Monte Carlo methods, such as Importance sampling, Rejection sampling, Sequential sampling, MCMC including Gibbs samplings, Hamilton Monte Carlo and so on.
+  + Basic Machine Learning, familiar with Kernel-method, such as SVM and Gauss Process, linear regression and its generalization, such as GLM models, LASSO,
+    Unsupervisd learning, such as clustering, PCA and so on.
+  + Familiar with statistics, especially on Bayeisian statistics, have a good understanding on stochastic process.
+  + Basic Mathematical skills, such as real analysis, functional analysis.
+  + Coding SKills: R,python, C/C++, and familiar with Linux enviorment.
+2. Researches: how to explain more details in a machine learning way.
