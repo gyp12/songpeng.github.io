@@ -60,6 +60,8 @@
 *** TODO R Package Establish.
 *** TODO Update the Results by Pulling More Data.
 
+** Other Ideas
+*** Literature Mining on drug-target or drug-drug interactions.
 * Finding Jobs
 ** IBM
 ** Microsoft
@@ -83,3 +85,7 @@
   + Basic Mathematical skills, such as real analysis, functional analysis.
   + Coding SKills: R,python, C/C++, and familiar with Linux enviorment.
 2. Researches: how to explain more details in a machine learning way.
+
+* TA for Introduction to Bioinformatics
+** Github
+*** TODO Submit homework on github.
