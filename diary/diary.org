@@ -69,9 +69,8 @@
 *** TODO Construct the Algorithm by Pure C++ or Python with C.
 *** TODO Deep Learning on Transfer Multi-task or Feature Representation.
 ** GIFT
-*** TODO R Package Establish.
+*** TODO R Package Establish for GIFT
 *** TODO Update the Results by Pulling More Data.
-
 ** Other Ideas
 *** Literature Mining on drug-target or drug-drug interactions.
 * Finding Jobs
