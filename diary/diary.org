@@ -64,6 +64,9 @@
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2015-08-27 四 10:27]
     :END:
+*** TODO Book for the selected compounds and Connect with others.
+    DEADLINE: <2015-09-13 日>
+
 ** Transfer Learning
 *** TODO Compounds Feature Selection.
 *** TODO Construct the Algorithm by Pure C++ or Python with C.
