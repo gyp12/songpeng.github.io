@@ -64,13 +64,16 @@
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2015-08-27 四 10:27]
     :END:
-*** TODO Book for the selected compounds and Connect with others.
+*** TODO [#A] Book for the selected compounds and Connect with others.
     DEADLINE: <2015-09-4 日>
 
 ** Transfer Learning
 *** TODO Compounds Feature Selection.
 *** TODO Construct the Algorithm by Pure C++ or Python with C.
 *** TODO Deep Learning on Transfer Multi-task or Feature Representation.
+*** TODO [#A] Writing the paper
+    DEADLINE: <2015-10-07 Thu>
+*** TODO [#B] Writing the thesis
 ** GIFT
 *** TODO R Package Establish for GIFT
 *** TODO Update the Results by Pulling More Data.
