@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hello World"
+title: "Thinking in Mahicine Learning Through A Probabilistic Perspective"
 comments: false
 tagline: BEYOND 11100011   
 tags: [TO DO]
